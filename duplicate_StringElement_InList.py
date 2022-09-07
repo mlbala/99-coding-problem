@@ -10,5 +10,4 @@ class Solution(object):
             else:
                 print(f"{i} is not a duplicate")
         
-
 print(Solution().isDuplicate(["python","pandas","numpy","pandas"]))

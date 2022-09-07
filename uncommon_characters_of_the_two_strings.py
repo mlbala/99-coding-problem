@@ -1,4 +1,3 @@
-
 class Solution(object):
     def solution_function(self, mystring1, mystring2):
         
